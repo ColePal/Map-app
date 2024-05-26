@@ -1,3 +1,6 @@
+pip install pandas
+pip install streamlit
+pip install leafmap
 import pandas as pd
 import streamlit as st
 import leafmap
