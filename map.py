@@ -4,7 +4,7 @@ import streamlit as st
 import leafmap
 #filepath = 'C:\Users\colep\OneDrive - Massey University\Data Wrangling and Machine Learning\Assignment 3 Group Project Personal'
 
-#Area_Coords = pd.read_csv(r"C:\Users\colep\OneDrive - Massey University\Data Wrangling and Machine Learning\Assignment 3 Group Project Personal\Geo_info.csv")
+Area_Coords = pd.read_csv(r"Geo_info.csv")
 #Area_Coords['info'] = 'hello'
 
 import streamlit as st
