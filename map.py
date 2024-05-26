@@ -1,21 +1,5 @@
-import salem
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.collections import PatchCollection
-from mpl_toolkits.basemap import Basemap
-from shapely.geometry import Polygon
-from descartes import PolygonPatch
-import pandas as pd
-import matplotlib.pyplot as plt
-from mpl_toolkits.basemap import Basemap
-from matplotlib.patches import Polygon
-import random
-import cmapy
 import pandas as pd
 import streamlit as st
-
-import os
-import unidecode
 import leafmap
 #filepath = 'C:\Users\colep\OneDrive - Massey University\Data Wrangling and Machine Learning\Assignment 3 Group Project Personal'
 
