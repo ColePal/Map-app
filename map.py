@@ -7,7 +7,7 @@ import leafmap
 Area_Coords = pd.read_csv(r"Geo_info.csv")
 #print(Area_Coords.columns)
 #Area_Coords['info'] = 'hello'
-Area_Coords = Area_Coords[['Respondents','Area','Latitude', 'Longitude', '15-29 years',
+Area_Coords = Area_Coords[['Respondents','Latitude', 'Longitude', '15-29 years',
        '30-64 years', '65 years and over', 'No qualification',
        'Level 3 certificate', 'Level 4 certificate', 'Level 5 diploma', 'Level 6 diploma',
        'Bachelor degree and level 7 qualification',
